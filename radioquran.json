@@ -51,12 +51,28 @@
 {"number":"48","name":"إذاعة تفسير السعدي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/49.png","streamUrl":"http://quraan.us:9944/;*.mp3","yourmuzeId":"0","state":"1"},
 {"number":"49","name":"إذاعة الرقية الشرعية","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/50.jpg","streamUrl":"http://live.mp3quran.net:9936/;","yourmuzeId":"0","state":"1"},
 {"number":"50","name":"إذاعة الفتاوى","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/51.png","streamUrl":"http://live.mp3quran.net:8014/;","yourmuzeId":"0","state":"1"},
+{"number":"51","name":"الشيخ محمد جبريل","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/52.jpg","streamUrl":"http://quraan.us:9894/","yourmuzeId":"0","state":"1"},
+{"number":"52","name":"ماهر المعيقلي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/53.jpg","streamUrl":"http://server2.quraan.us:9856/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"53","name":"ياسر الدوسري","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/54.jpg","streamUrl":"http://quraan.us:9884/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"54","name":"ناصر القطامي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/55.jpg","streamUrl":"http://server2.quraan.us:9886/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"55","name":"الشيخ مصطفي اسماعيل","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/56.jpg","streamUrl":"http://live.mp3quran.net:9800/;","yourmuzeId":"0","state":"1"},
+{"number":"56","name":"محمد صديق المنشاوي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/57.jpg","streamUrl":"http://server2.quraan.us:9918/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"57","name":"محمد صديق المنشاوي (المصحف المعلم)","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/57.jpg","streamUrl":"http://server2.quraan.us:9308/;*.mp3","yourmuzeId":"0","state":"1"},
+{"number":"58","name":"عبدالباسط عبد الصمد","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/59.jpg","streamUrl":"http://quraan.us:9916/","yourmuzeId":"0","state":"1"},
+{"number":"59","name":"اسلام صبحي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/60.jpg","streamUrl":"https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3","yourmuzeId":"0","state":"1"},
+{"number":"60","name":"الشيخ محمود علي البنا","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/61.jpg","streamUrl":"http://server2.quraan.us:9788/","yourmuzeId":"0","state":"1"},
+{"number":"61","name":"الشيخ مشاري بن راشد العفاسي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/62.jpg","streamUrl":"http://live.mp3quran.net:9982/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},
+{"number":"62","name":"الشيخ محمود خليل الحصري","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/63.jpg","streamUrl":"http://live.mp3quran.net:9804/;","yourmuzeId":"0","state":"1"},
+{"number":"64","name":"محمد متولي الشعراوي","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/64.jpg","streamUrl":"http://quraan.us:9888/","yourmuzeId":"0","state":"1"},
+{"number":"66","name":"محمد رفعت","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/65.jpg","streamUrl":"http://radio10.tarat.com:9328/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"54","name":"تلاوات خاشعة 1","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/66.png","streamUrl":"http://islam2day.tv:3000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"55","name":"تلاوات خاشعة 2","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/67.png","streamUrl":"http://live.mp3quran.net:9992/","yourmuzeId":"0","state":"1"}, 	
+{"number":"56","name":"اناشيد دينية","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/68.png","streamUrl":"http://islam2day.tv:8000/","yourmuzeId":"0","state":"1"}, 	
+{"number":"61","name":"ادعية واذكار","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/69.jpg","streamUrl":"http://radio10.tarat.com:9358/","yourmuzeId":"0","state":"1"}, 	
+{"number":"62","name":"برنامج لقاء الايمان","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/70.png","streamUrl":"http://radio2.tarat.com:9980/","yourmuzeId":"0","state":"1"}, 	
+{"number":"69","name":"اذكار الصباح","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/71.jpg","streamUrl":"http://radio2.tarat.com:9300/;","yourmuzeId":"0","state":"1"}, 	
+{"number":"70","name":"اذكار المساء","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/72.jpg","streamUrl":"http://radio2.tarat.com:9302/;","yourmuzeId":"0","state":"1"} 
 
-
-{"number":"51","name":"","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/52.jpg","streamUrl":"","yourmuzeId":"0","state":"0"},
-{"number":"52","name":"","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/53.png","streamUrl":"","yourmuzeId":"0","state":"0"},
-{"number":"53","name":"","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/54.jpg","streamUrl":"","yourmuzeId":"0","state":"0"},
-{"number":"54","name":"","description":"","logo":"https://raw.githubusercontent.com/devradio/quranradio/master/55.jpg","streamUrl":"","yourmuzeId":"0","state":"0"}
 
 
 
